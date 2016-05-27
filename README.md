@@ -1,0 +1,2 @@
+# ConfigData
+spring config server
